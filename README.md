@@ -8,6 +8,7 @@ You already have started wasting your time!!
 This is the thing I have edited from the explorer directly, can you see me?
 <<<<<<< HEAD
 
+modified
 I have added this from Atom, and I have edited this line as well.
 
 OMG! let us see, what is going to happen!
